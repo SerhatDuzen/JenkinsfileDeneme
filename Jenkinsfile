@@ -1,3 +1,5 @@
+#https://santoshk.dev/posts/2022/how-to-setup-a-jenkins-to-dockerhub-pipeline-with-multi-arch-images/
+
 pipeline {
     agent any
 
